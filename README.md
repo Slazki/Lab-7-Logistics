@@ -19,4 +19,4 @@ Partner: N/A
 
 ## Test Results
 
-![Passing Lab 7 test results](./lab7-test-results-screenshot.png)
+![Passing Lab 7 test results](./lab7-test-results-screenshot.svg)
