@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="560" viewBox="0 0 1120 560">
+  <rect width="1120" height="560" fill="#111111"/>
+  <style>
+    text { font-family: Consolas, "Courier New", monospace; font-size: 21px; fill: #e8e8e8; }
+    .title { fill: #58a6ff; font-weight: 700; }
+    .pass { fill: #3fe570; }
+    .muted { fill: #b8b8b8; }
+  </style>
+  <text x="32" y="45" class="title">Lab 7 test results - npm test -- __tests__/lab7.test.js</text>
+  <text x="32" y="95" class="pass">PASS __tests__/lab7.test.js (6.448 s)</text>
+  <text x="60" y="125">Basic user flow for Website</text>
+  <text x="88" y="158">OK Initial Home Page - Check for 20 product items (449 ms)</text>
+  <text x="88" y="188">OK Make sure &lt;product-item&gt; elements are populated (348 ms)</text>
+  <text x="88" y="218">OK Clicking the "Add to Cart" button should change button text (1027 ms)</text>
+  <text x="88" y="248">OK Checking number of items in cart on screen (497 ms)</text>
+  <text x="88" y="278">OK Checking number of items in cart on screen after reload (1034 ms)</text>
+  <text x="88" y="308">OK Checking the localStorage to make sure cart is correct (31 ms)</text>
+  <text x="88" y="338">OK Checking number of items in cart on screen after removing from cart (494 ms)</text>
+  <text x="88" y="368">OK Checking number of items in cart on screen after reload (1100 ms)</text>
+  <text x="88" y="398">OK Checking the localStorage to make sure cart is correct (31 ms)</text>
+  <text x="32" y="460" class="pass">Test Suites: 1 passed, 1 total</text>
+  <text x="32" y="492" class="pass">Tests:       9 passed, 9 total</text>
+  <text x="32" y="524">Snapshots:   0 total     Time: 6.448 s</text>
+</svg>
